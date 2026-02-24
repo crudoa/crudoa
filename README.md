@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gustavo
 
-Backend & Fullstack Developer focused on building scalable and secure applications.
+Backend & Fullstack Developer specialized in building secure REST APIs and scalable web applications using modern architectures.
 
 ---
 
