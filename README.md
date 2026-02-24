@@ -43,11 +43,9 @@ Modern fullstack ecommerce platform.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crudoa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crudoa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![](https://github-readme-activity-graph.vercel.app/graph?username=crudoa&theme=tokyo-night)
 
 ---
 
