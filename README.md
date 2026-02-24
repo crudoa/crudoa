@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustavo
 
-<!--
-**crudoa/crudoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Fullstack Developer focused on building scalable and secure applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Backend
+- Java (Spring Boot)
+- .NET (ASP.NET Core)
+- REST APIs
+- JWT Authentication
+- Entity Framework / JPA
+
+### Frontend
+- Next.js
+- TypeScript
+- TailwindCSS
+
+### DevOps
+- Docker
+- Docker Compose
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+🔹 Inventory Management API (Spring Boot + JWT + Docker)  
+🔹 Employee Management System (.NET 8 MVC)  
+🔹 Pradera Ecommerce (Next.js + Supabase)
+
+---
+
+## 🎯 Currently Improving
+
+- Clean Architecture
+- Cloud deployment
+- Advanced backend patterns
+
+---
+
+📫 Open to backend and fullstack opportunities
