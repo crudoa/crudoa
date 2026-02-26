@@ -10,18 +10,18 @@ Backend & Fullstack Developer specialized in building secure REST APIs and scala
 
 ### ▸ Backend
 ![Java](https://img.shields.io/badge/Java-7209B7?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3A0CA3?style=for-the-badge&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-B5179E?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-7209B7?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-7209B7?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-7209B7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-0D0D0D?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### ▸ Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7209B7?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-B5179E?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-7209B7?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ▸ DevOps
-![Docker](https://img.shields.io/badge/Docker-3A0CA3?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7209B7?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-7209B7?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=white)
 
@@ -45,11 +45,11 @@ Modern fullstack ecommerce platform.
 
 ## ◆ GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crudoa&theme=midnight_purple)
+![](https://github-readme-stats.vercel.app/api?username=crudoa&show_icons=true&bg_color=0D0D0D&title_color=7209B7&text_color=ffffff&icon_color=7209B7&border_color=7209B7)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crudoa&theme=midnight_purple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crudoa&layout=compact&bg_color=0D0D0D&title_color=7209B7&text_color=ffffff&border_color=7209B7)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crudoa&theme=midnight_purple)
+![](https://streak-stats.demolab.com?user=crudoa&background=0D0D0D&ring=7209B7&fire=7209B7&currStreakLabel=7209B7&border=7209B7)
 
 ---
 
