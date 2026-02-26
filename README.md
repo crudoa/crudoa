@@ -49,7 +49,7 @@ Modern fullstack ecommerce platform.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crudoa&layout=compact&bg_color=0D0D0D&title_color=7209B7&text_color=ffffff&border_color=7209B7)
 
-![](https://streak-stats.demolab.com?user=crudoa&background=0D0D0D&ring=7209B7&fire=7209B7&currStreakLabel=7209B7&border=7209B7)
+![](https://streak-stats.demolab.com?user=crudoa&theme=highcontrast&background=0D0D0D&ring=7209B7&fire=7209B7&currStreakLabel=7209B7&sideLabels=ffffff&dates=cccccc&border=7209B7)
 
 ---
 
