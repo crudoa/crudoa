@@ -45,11 +45,11 @@ Modern fullstack ecommerce platform.
 
 ## ◆ GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crudoa&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crudoa&theme=midnight_purple)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crudoa&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crudoa&theme=midnight_purple)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crudoa&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crudoa&theme=midnight_purple)
 
 ---
 
